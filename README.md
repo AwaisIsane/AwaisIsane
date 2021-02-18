@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Awais Isane</h1>
-<h3 align="center">just a homo-sapien who enjoys to code</h3>
+<h3 align="center">i enjoy creating cool things</h3>
 
 - 🌱 I’m currently learning **node.js,react**
 
