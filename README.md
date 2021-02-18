@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **node.js,react**
 
-- 💬 Ask me about **react,pytorch,numpy**
+- 💬 Ask me about **react,javascript,python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
