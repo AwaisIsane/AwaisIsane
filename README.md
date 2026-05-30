@@ -3,4 +3,4 @@
 
 
 - 📫 How to reach me **awaisisane@gmail.com**
-- my website [awaisisane.com/blogs](https://www.awaisisane.com/blogs)
+- my website [awaisisane.com/](https://www.awaisisane.com/)
